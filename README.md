@@ -3,8 +3,8 @@
 <img src="txttxttxt.png" alt="txttxt">
 
 ### About
-devoloper/designer from saint-petersberg
-curruntly working at NIC SPB ETU 
+devoloper/designer from saint-petersberg<br>
+currently working at NIC SPB ETU 
 
 ### Stack
 <b>Frontend</b><br>
