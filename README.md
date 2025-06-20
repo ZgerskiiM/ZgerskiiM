@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Mark</a> 
+<h1 align="center">Hi there, I'm Mark</a> 
 
 <h3 align="center">Fullstack(Vue/React/Node.js/Python/Java) and designer from Saint-Petersburg</h3>
 
