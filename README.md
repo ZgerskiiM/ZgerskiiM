@@ -3,7 +3,7 @@
 <img src="txttxttxt.png" alt="txttxt">
 
 ### About
-devoloper/designer from saint-petersberg<br>
+devoloper/designer from saint-petersburg<br>
 currently working at NIC SPB ETU 
 
 ### Stack
@@ -41,17 +41,3 @@ currently working at NIC SPB ETU
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<!--
-**ZgerskiiM/ZgerskiiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
