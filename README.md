@@ -1,6 +1,4 @@
-<h1 align="center">Hi there, I'm Mark</a> 
 
-<h3 align="center">Fullstack(Vue/React/Node.js/Python/Java) and designer from Saint-Petersburg</h3>
 
 <img src="txttxttxt.png" alt="txttxt">
 
