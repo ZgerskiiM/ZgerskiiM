@@ -43,4 +43,4 @@ currently working at NIC SPB ETU
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ZgerskiiM&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ZgerskiiM)](https://git.io/streak-stats)
