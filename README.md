@@ -41,3 +41,6 @@ currently working at NIC SPB ETU
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ZgerskiiM&theme=dark)](https://git.io/streak-stats)
